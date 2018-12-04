@@ -43,11 +43,15 @@
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
         </dependency>
-        <!-- pinyougou-pojo -->
+        <!-- pingyougou-pojo -->
         <dependency>
             <groupId>com.pingyougou</groupId>
             <artifactId>pingyougou-pojo</artifactId>
             <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
         </dependency>
     </dependencies>
 </project>

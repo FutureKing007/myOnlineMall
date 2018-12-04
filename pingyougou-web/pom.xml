@@ -76,6 +76,11 @@
             <artifactId>zkclient</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+        </dependency>
+
     </dependencies>
 
     <!-- 构建部分 -->
